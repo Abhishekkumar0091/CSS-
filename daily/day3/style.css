@@ -1,0 +1,32 @@
+.card1 {
+    display: inline-block;
+    height: 200px;
+     width: 200px;
+     background-color: rgb(165, 42, 42);
+}
+.card2 {
+    display: inline-block;
+    height: 200px;
+     width: 200px;
+     background-color: rgb(42, 81, 165);
+}   
+.card3 {
+    display: inline-block;
+    height: 200px;
+     width: 200px;
+     background-color: rgb(155, 165, 42);
+}
+
+a {
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 128);
+}
+
+
+
+
+
+
+

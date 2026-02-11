@@ -1,0 +1,43 @@
+.main {
+    /* display-flax property.......... */
+    display: flex;
+    /* flex direction property ........*/
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column-reverse; */
+
+
+    /*for justify content property........*/
+    /* justify-content: start; */
+    /* justify-content: end; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: space-evenly; */
+
+    /* flex wrap property.......... */
+    /* flex-wrap: wrap; */
+
+    width: 250px;
+    height: 450px;
+    border: 2px solid black;
+
+  /* align items propertys............ */
+    /* align-items: center; */
+    align-items: end;
+}
+.card1 {
+    height: 200px;
+    width: 200px;
+    background-color:rgb(222, 184, 135);
+}
+
+.card2 {
+    height: 200px;
+    width: 200px;
+    background-color:rgb(112, 122, 15);
+}
+
+.card3 {
+    height: 200px;
+    width: 200px;
+    background-color:rgb(231, 107, 153);
+}
